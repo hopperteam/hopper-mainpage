@@ -1,0 +1,42 @@
+.hop-link {
+    text-align: center;
+    height: 48px;
+    line-height: 48px;
+    border-radius: 6px;
+    box-shadow: 5px 5px 15px -5px #000000;
+    transition: box-shadow .3s;
+    cursor: pointer;
+    margin-top: 16px;
+}
+
+.hop-link:hover {
+    box-shadow: 5px 5px 15px 0 #000000;
+}
+
+.hop-link img {
+    height: 32px;
+    margin: 8px;
+    float: left;
+}
+
+.hop-link span {
+
+}
+
+#buttons {
+    margin-top: 64px;
+}
+
+#logo {
+    margin-top: 64px;
+}
+
+#buttonGH {
+    background-color: black;
+    color: white;
+}
+
+#buttonBlog {
+    color: black;
+}
+
